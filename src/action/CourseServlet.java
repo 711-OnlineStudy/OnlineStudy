@@ -28,7 +28,6 @@ import entity.Sort;
 import entity.Student;
 import entity.CourseAndVideos;
 import entity.Type;
-import filter.videoFilter;
 import service.CourseService;
 
 public class CourseServlet extends HttpServlet {
